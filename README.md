@@ -1,4 +1,4 @@
-# Gearset-Challenge
+# Challenge
 ## ASSUMPTIONS
 - At the beginning of the document there is always a title followed by a line break to separate it from the text. <br /> <br />
 - I assume that the font in italics can not go before or after a text in bold since the combination of the two does not exist in the code. However, it could be implemented by creating a new font with "Font.BOLDITALIC". <br /> <br />
